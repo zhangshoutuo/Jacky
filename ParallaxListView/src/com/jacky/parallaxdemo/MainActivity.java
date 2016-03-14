@@ -7,7 +7,6 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 
-import com.itheima.parallaxdemo.R;
 import com.jacky.parallaxdemo.ui.MyListView;
 import com.jacky.parallaxdemo.util.Cheeses;
 
